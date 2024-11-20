@@ -26,5 +26,5 @@ The Restaurant Order Management System is a Java-based application designed to m
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-order-management-system.git
-   cd restaurant-order-management-system
+   git@github.com:Hsakhiya/Restaurant-Managment-Project.git
+   cd Restaurant-Managment-Project
